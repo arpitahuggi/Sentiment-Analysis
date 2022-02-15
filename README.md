@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+Sentiment  analysis, also refers as opinion mining, is a task where we want to determine which the general  sentiment of a given text.  Classification of twitter data is done based on experience economy model, which classifies the data into four categories i.e., education, entertainment, escapist and aesthetics. Further on this classification, sentiment analysis has been done to analyse if a solo woman has had a positive experience, negative experience, or neutral experience on their travel.
